@@ -1,4 +1,3 @@
-<a href="#"><img width="auto" height="175px" src="https://media.giphy.com/media/gKg1rQr9rojRXLxu2g/giphy.gif" height="175px"/></a>
 
 
 ## Hi I'm Hrushikesh Desai <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">

@@ -1,19 +1,19 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://ik.imagekit.io/altajfood/ar_asset/screen_open.gif?updatedAt=1684601447524" width="200" alt="Profile Image">
+  <img src="https://ik.imagekit.io/altajfood/ar_asset/eyes.gif?updatedAt=1684609499978" width="200" alt="Profile Image">
 </p>
 <h1 align="center">Hi, I'm Hrushikesh Desai! 👋</h1>
 <h3 align="center">Sr Mobile Developer</h3>
 
-<!-- Spotify Section -->
-<p align="center">
-  <img src="https://hrushikesh-nine.vercel.app/api?spin=true" alt="Currently Playing on Spotify">
-</p>
-
-<!-- Song Animation Section -->
+<!-- Spotify and GIF Section -->
 <div align="center">
-  <img src="https://ik.imagekit.io/altajfood/ar_asset/2670-deadpool.json" alt="Song Animation">
+  <div style="display: flex; align-items: center;">
+   <img src="https://media.tenor.com/W8gUWNWjwXAAAAAC/fortnite-fortnite-battle-royale.gif" alt="GIF Image" style="height: 200px;">
+    <img src="https://hrushikesh-nine.vercel.app/api?theme=dark" alt="Currently Playing on Spotify" style="height: 200px;">
+   
+  </div>
 </div>
+
 
 <!-- Contact Section -->
 <p align="center">

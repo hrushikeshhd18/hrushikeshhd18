@@ -26,8 +26,6 @@
   <a href="https://twitter.com/hrushikesh_hd">
     <img src="https://img.shields.io/badge/Twitter-Follow%20Me-informational?style=flat&logo=twitter&logoColor=white&color=2bbc8a" alt="Twitter">
   </a>
-  <a href="https://github.com/hrushikeshhd18">
-    <img src="https://img.shields.io/github/watchers/hrushikeshhd18/hrushikeshhd18?label=👀%20GitHub%20Views&style=flat&color=2bbc8a" alt="GitHub Views">
-  </a>
+
 </p>
 

@@ -7,9 +7,9 @@
 
 <!-- Spotify and GIF Section -->
 <div align="center">
-  <div style="display: flex; align-items: center;">
-   <img src="https://media.tenor.com/W8gUWNWjwXAAAAAC/fortnite-fortnite-battle-royale.gif" alt="GIF Image" style="height: 100px;">
-    <img src="https://hrushikesh-nine.vercel.app/api?theme=dark" alt="Currently Playing on Spotify" style="height: 100px;">
+  <div style="display: flex; align-items: center; height: 100px;">
+   <img src="https://media.tenor.com/W8gUWNWjwXAAAAAC/fortnite-fortnite-battle-royale.gif" alt="GIF Image" >
+    <img src="https://hrushikesh-nine.vercel.app/api?theme=dark" alt="Currently Playing on Spotify" >
    
   </div>
 </div>

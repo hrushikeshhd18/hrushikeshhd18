@@ -3,7 +3,7 @@
   <img src="https://ik.imagekit.io/altajfood/ar_asset/eyes.gif?updatedAt=1684609499978" width="200" alt="Profile Image">
 </p>
 <h1 align="center">Hi, I'm Hrushikesh Desai! 👋</h1>
-<h3 align="center">Sr Mobile Developer</h3>
+<h3 align="center">Mobile Developer</h3>
 
 <!-- Spotify and GIF Section -->
 <div align="center">

@@ -31,13 +31,16 @@
 
 <!-- Deadpool & Spotify Section -->
 <div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 20px;">
-    <img src="https://media.tenor.com/W8gUWNWjwXAAAAAC/fortnite-fortnite-battle-royale.gif" alt="Deadpool Image" style="height: 100px;">
+  <p>
+    <img src="https://media.tenor.com/W8gUWNWjwXAAAAAC/fortnite-fortnite-battle-royale.gif" alt="Deadpool Image" height="150">
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="#">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=6iti0tu2vuxca36feepbmq3om&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=e23636&bar_color_cover=false" alt="spotify-github-profile" style="height: 100px;">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=6iti0tu2vuxca36feepbmq3om&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=e23636&bar_color_cover=false" alt="spotify-github-profile" height="150">
     </a>
-  </div>
+  </p>
 </div>
+
+<br>
 
 <!-- Realtime GitHub Stats Section -->
 <div align="center">
@@ -45,7 +48,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=hrushikeshhd18&show_icons=true&theme=transparent&hide_border=true&title_color=e23636&icon_color=e23636&text_color=ffffff" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/hrushikeshhd18">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrushikeshhd18&theme=transparent&hide_border=true&title_color=e23636&text_color=ffffff&icon_color=e23636&background=00000000" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrushikeshhd18&theme=transparent&hide_border=true&title_color=e23636&text_color=ffffff&icon_color=e23636&background=00000000&ring=e23636&fire=e23636&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=e23636&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -60,7 +63,10 @@
       <img src="https://img.shields.io/badge/LinkedIn-Follow%20Me-e23636?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://twitter.com/hrushikesh_hd">
-      <img src="https://img.shields.io/badge/Twitter-Follow%20Me-e23636?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+      <img src="https://img.shields.io/badge/X-Follow%20Me-e23636?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+    </a>
+    <a href="https://github.com/hrushikeshhd18">
+      <img src="https://img.shields.io/badge/GitHub-Follow%20Me-e23636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
   </p>
 </div>

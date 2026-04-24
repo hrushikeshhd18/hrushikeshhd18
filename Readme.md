@@ -5,13 +5,14 @@
 <h1 align="center">Hi, I'm Hrushikesh Desai! 👋</h1>
 <h3 align="center">Mobile Developer</h3>
 
-<!-- Spotify and GIF Section -->
+<!-- Realtime GitHub Stats Section -->
 <div align="center">
-  <div style="display: flex; align-items: center; height: 100px;">
-   <img src="https://media.tenor.com/W8gUWNWjwXAAAAAC/fortnite-fortnite-battle-royale.gif" alt="GIF Image" >
-    <img src="https://hrushikesh-nine.vercel.app/api?theme=dark" alt="Currently Playing on Spotify" >
-   
-  </div>
+  <a href="https://github.com/hrushikeshhd18">
+    <img src="https://github-readme-stats.vercel.app/api?username=hrushikeshhd18&show_icons=true&theme=transparent&hide_border=true&title_color=2bbc8a&icon_color=2bbc8a&text_color=ffffff" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/hrushikeshhd18">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrushikeshhd18&theme=transparent&hide_border=true&title_color=2bbc8a&text_color=ffffff&icon_color=2bbc8a&background=00000000" alt="GitHub Streak" />
+  </a>
 </div>
 
 

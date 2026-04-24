@@ -1,9 +1,33 @@
 <!-- Header Section -->
-<p align="center">
-  <img src="https://ik.imagekit.io/altajfood/ar_asset/eyes.gif?updatedAt=1684609499978" width="200" alt="Profile Image">
-</p>
-<h1 align="center">Hi, I'm Hrushikesh Desai! 👋</h1>
-<h3 align="center">Mobile Developer</h3>
+<div align="center">
+  <!-- Header Eyes & Profile Picture -->
+  <img src="https://ik.imagekit.io/altajfood/ar_asset/eyes.gif?updatedAt=1684609499978" width="200" alt="Deadpool Eyes">
+  <br>
+  <img src="./hrushikesh_deasi.jpeg" width="160" height="160" style="border-radius: 50%; border: 4px solid #e23636; object-fit: cover; margin-top: 15px;" alt="Hrushikesh Desai">
+
+  <h1>Hi, I'm Hrushikesh Desai! 👋</h1>
+  <h3>Mobile Developer & Founder</h3>
+
+  <!-- Personal & Startup Links -->
+  <p>
+    <a href="https://hrushikeshdesai.com">
+      <img src="https://img.shields.io/badge/Portfolio-hrushikeshdesai.com-e23636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+    </a>
+    <a href="https://topmate.io/hrushikeshdesai">
+      <img src="https://img.shields.io/badge/Book_Session-Topmate-e23636?style=for-the-badge&logo=calendly&logoColor=white" alt="Topmate">
+    </a>
+  </p>
+  <p>
+    <a href="https://myservicecart.com">
+      <img src="https://img.shields.io/badge/Founder-Servicecart-e23636?style=for-the-badge&logo=shopify&logoColor=white" alt="Servicecart">
+    </a>
+    <a href="https://homeamber.com">
+      <img src="https://img.shields.io/badge/Founder-Homeamber-e23636?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Homeamber">
+    </a>
+  </p>
+</div>
+
+<br>
 
 <!-- Deadpool & Spotify Section -->
 <div align="center">
@@ -25,15 +49,18 @@
   </a>
 </div>
 
-<!-- Contact Section -->
-<p align="center">
-  <a href="mailto:hrutikdesai1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Make%20Contact-informational?style=flat&logo=gmail&logoColor=white&color=e23636" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/hrushikeshdesaihd">
-    <img src="https://img.shields.io/badge/LinkedIn-Follow%20Me-informational?style=flat&logo=linkedin&logoColor=white&color=e23636" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/hrushikesh_hd">
-    <img src="https://img.shields.io/badge/Twitter-Follow%20Me-informational?style=flat&logo=twitter&logoColor=white&color=e23636" alt="Twitter">
-  </a>
-</p>
+<!-- Connect With Me Section -->
+<div align="center">
+  <h3>🔗 Connect With Me</h3>
+  <p>
+    <a href="mailto:hrutikdesai1@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Make%20Contact-e23636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://linkedin.com/in/hrushikeshdesaihd">
+      <img src="https://img.shields.io/badge/LinkedIn-Follow%20Me-e23636?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://twitter.com/hrushikesh_hd">
+      <img src="https://img.shields.io/badge/Twitter-Follow%20Me-e23636?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    </a>
+  </p>
+</div>

@@ -9,7 +9,7 @@
 <div align="center">
   <h1>Hi, I'm Hrushikesh Desai! <img src="./onep.gif" height="42" valign="middle" alt="Luffy Gear 2"></h1>
   <p>
-    <strong>Software Development Engineer II (Mobile Systems)</strong> &nbsp;•&nbsp; 5+ Years Exp &nbsp;•&nbsp; Mumbai, India
+    <strong>Software Development Engineer III (Mobile Systems)</strong> &nbsp;•&nbsp; 5+ Years Exp &nbsp;•&nbsp; Mumbai, India
   </p>
 
   
@@ -33,7 +33,7 @@
 
 <br>
 
-<!-- Engineering Focus (SDE II) -->
+<!-- Engineering Focus (SDE III) -->
 <table>
   <tr>
     <td width="130" align="center" valign="middle">
